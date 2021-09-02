@@ -4,3 +4,5 @@
 # The file that contains our Twitter dev account login information
 authorization_tokens.py
 
+# Some Python internal stuff that we can also ignore
+__pycache__
